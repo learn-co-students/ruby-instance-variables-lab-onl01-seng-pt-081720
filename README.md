@@ -1,4 +1,4 @@
-# Instance Variables
+leanr s# Instance Variables
 
 ## Objectives
 1. Define instance variables.
